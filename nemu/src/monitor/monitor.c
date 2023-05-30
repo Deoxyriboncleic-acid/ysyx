@@ -150,7 +150,6 @@ static long load_img() {
 }
 
 
-//TODO: am_init_monitor
 void am_init_monitor() {
   init_rand();
   init_mem();
