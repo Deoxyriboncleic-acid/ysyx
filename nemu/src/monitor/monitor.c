@@ -149,7 +149,6 @@ static long load_img() {
   return size;
 }
 
-
 void am_init_monitor() {
   init_rand();
   init_mem();

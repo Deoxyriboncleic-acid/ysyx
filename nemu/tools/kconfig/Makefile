@@ -1,4 +1,3 @@
-NEMU_HOME = /home/wqy/work/ysyx-workbench/nemu/
 NAME = conf
 obj := build
 SRCS += confdata.c expr.c preprocess.c symbol.c util.c

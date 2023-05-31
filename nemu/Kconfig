@@ -192,8 +192,8 @@ config DIFFTEST_REF_NAME
 endmenu
 
 if MODE_SYSTEM
-source "/home/wqy/work/ysyx-workbench/nemu/src/memory/Kconfig"
-source "/home/wqy/work/ysyx-workbench/nemu/src/device/Kconfig"
+source "src/memory/Kconfig"
+source "src/device/Kconfig"
 endif
 
 
